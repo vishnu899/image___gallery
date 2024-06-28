@@ -44,9 +44,4 @@ To use or modify this gallery for your own projects, follow these steps:
 )
 
 
-### Notes:
-
-- Replace `your-username` in the clone URL with your actual GitHub username or the repository URL.
-- Make sure to include a `screenshot.png` or `preview.png` file in your repository that shows a preview of your image gallery.
-
 Feel free to expand on this template with more specific details about your implementation, any dependencies, or additional customization options.
