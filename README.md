@@ -40,7 +40,7 @@ To use or modify this gallery for your own projects, follow these steps:
 
 ## Preview
 
-![Image Gallery Preview](![Screenshot (41)]![Screenshot (42)](https://github.com/vishnu899/image___gallery/assets/173874095/5df13b62-4c80-4377-8a49-02e20f6acf94)
+![Image Gallery Preview](![Screenshot (41)]![Screenshot (14)](https://github.com/vishnu899/image___gallery/assets/173874095/5df13b62-4c80-4377-8a49-02e20f6acf94)
 
 
 
