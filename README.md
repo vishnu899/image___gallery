@@ -40,7 +40,7 @@ To use or modify this gallery for your own projects, follow these steps:
 
 ## Preview
 
-![Image Gallery Preview][![Uploading Screenshot (14).png…]()
+![Image Gallery Preview][![Uploading Screenshot (14).png…]
 ]
 
 
